@@ -1,0 +1,17 @@
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקוד\HtmlSerializer\HtmlSerializer\bin\Debug\net6.0\HtmlSerializer.exe
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקוד\HtmlSerializer\HtmlSerializer\bin\Debug\net6.0\HtmlSerializer.deps.json
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקוד\HtmlSerializer\HtmlSerializer\bin\Debug\net6.0\HtmlSerializer.runtimeconfig.json
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקוד\HtmlSerializer\HtmlSerializer\bin\Debug\net6.0\HtmlSerializer.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקוד\HtmlSerializer\HtmlSerializer\bin\Debug\net6.0\HtmlSerializer.pdb
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקוד\HtmlSerializer\HtmlSerializer\obj\Debug\net6.0\HtmlSerializer.csproj.AssemblyReference.cache
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקוד\HtmlSerializer\HtmlSerializer\obj\Debug\net6.0\HtmlSerializer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקוד\HtmlSerializer\HtmlSerializer\obj\Debug\net6.0\HtmlSerializer.AssemblyInfoInputs.cache
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקוד\HtmlSerializer\HtmlSerializer\obj\Debug\net6.0\HtmlSerializer.AssemblyInfo.cs
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקוד\HtmlSerializer\HtmlSerializer\obj\Debug\net6.0\HtmlSerializer.csproj.CoreCompileInputs.cache
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקוד\HtmlSerializer\HtmlSerializer\obj\Debug\net6.0\HtmlSerializer.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקוד\HtmlSerializer\HtmlSerializer\obj\Debug\net6.0\refint\HtmlSerializer.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקוד\HtmlSerializer\HtmlSerializer\obj\Debug\net6.0\HtmlSerializer.pdb
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקוד\HtmlSerializer\HtmlSerializer\obj\Debug\net6.0\HtmlSerializer.genruntimeconfig.cache
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקוד\HtmlSerializer\HtmlSerializer\obj\Debug\net6.0\ref\HtmlSerializer.dll
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקוד\HtmlSerializer\HtmlSerializer\bin\Debug\net6.0\AllTags.json
+C:\Users\yaeli barda\Documents\שנה ב\פרויקטים\פרקטיקוד\HtmlSerializer\HtmlSerializer\bin\Debug\net6.0\SelfClosingTags.json
